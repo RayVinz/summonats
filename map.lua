@@ -2,6 +2,7 @@ local PlaceId = game.PlaceId
 
 local supportedGames = {
     [117616339044619] = "https://raw.githubusercontent.com/RayVinz/Universal/refs/heads/main/animerng.lua",
+    [131367064230486] = "https://raw.githubusercontent.com/RayVinz/Universal/refs/heads/main/housetd.lua",
 
 }
 
